@@ -12,6 +12,11 @@ public class hw_2_7 {
         chislo[0] = 1;
         chislo[1] = 2;
         chislo[2] = 3;
+
+        int a = 123;
+
+        int a1 = 123/100; // 1.23 = 1
+
         System.out.println("Число 123");
         if (chislo[0]>chislo[2])
             System.out.println("первая цифра больше");
