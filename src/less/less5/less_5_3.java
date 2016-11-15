@@ -13,7 +13,7 @@ public class less_5_3 {
         for (int i = 0; i < B.length; i++) {
             for (int j = 0; j < B[i].length; j++) {
                 B[i][j] = rand.nextInt(100);
-                System.out.print(" "+B[i][j]);
+                System.out.print(B[i][j] + "\t");
             }
             System.out.println();
         }
