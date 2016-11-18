@@ -31,7 +31,7 @@ public class hw_3_4 {
             i++;
         }
     }
-
+//
 
     public static int factorial(int num) {
         int fact = 1;
