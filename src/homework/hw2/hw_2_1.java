@@ -9,7 +9,7 @@ public class hw_2_1 {
     public static void main(String args[]){
         int a = 0;
         int b = 0;
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);//
 
         System.out.println("a:b = c");
         System.out.print("введите а:");
